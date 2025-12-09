@@ -1,15 +1,18 @@
-# F1 Predictions
+# Machine Learning Projects
 
-Machine learning project for predicting Formula 1 race outcomes and performance metrics.
+A collection of machine learning and data science projects exploring various predictive modeling techniques and real-world applications.
 
 ## Project Overview
 
-This repository contains data analysis and machine learning models focused on Formula 1 racing predictions. The project explores historical F1 data to build predictive models for race results and driver/team performance.
+This repository contains multiple machine learning projects focusing on data analysis, feature engineering, and predictive modeling. Each project applies different ML techniques to solve domain-specific problems, with an emphasis on F1 racing predictions and performance analysis.
 
-## Files
+## Project Contents
 
-- **`prediction8.py`** - Main prediction model implementation
-- **`Testing_push_to_git.py`** - Testing and validation scripts
+### F1 Predictions
+- **`prediction8.py`** - Machine learning model for Formula 1 race outcome predictions
+- **`Testing_push_to_git.py`** - Testing and validation framework for ML models
+
+This section focuses on applying supervised learning techniques to historical F1 data, including data preprocessing, feature selection, model training, and performance evaluation.
 
 ## Setup
 
