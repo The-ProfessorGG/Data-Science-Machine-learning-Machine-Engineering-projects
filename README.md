@@ -1,3 +1,5 @@
+this is a trial run 
+
 # Machine Learning Projects
 
 A collection of machine learning and data science projects exploring various predictive modeling techniques and real-world applications.
